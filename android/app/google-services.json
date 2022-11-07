@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "918449810369",
+    "project_id": "workoutplanner-f3249",
+    "storage_bucket": "workoutplanner-f3249.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918449810369:android:e9e0f36d636f01b6e81d40",
+        "android_client_info": {
+          "package_name": "com.beastOn.workoutplanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918449810369-87d57ttqtq4vegape9bk3ft50fsf4b2j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbscDy2zKBWZpvV4et992dT0qiph1JW6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918449810369-87d57ttqtq4vegape9bk3ft50fsf4b2j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
